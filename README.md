@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com Análise de Dados/ Business Intelligence
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 💻 <a href="https://sites.google.com/view/portfolio-maiuly-gomes/">Portfólio de Dados</a>
 
 ##
 
@@ -15,7 +16,3 @@
 
 ##
 
-<div> 
-  <a href="https://www.linkedin.com/in/maiulyvg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:maiulygomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
