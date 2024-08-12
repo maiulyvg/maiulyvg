@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com Análise de Dados/ Business Intelligence
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 💻 <a href="https://sites.google.com/view/portfolio-maiuly-gomes/">Portfólio de Dados</a>
+- 📫 maiulygomes@gmail.com
 
 ##
 
