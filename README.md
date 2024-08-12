@@ -3,7 +3,10 @@
 - 🔭 Hoje trabalho com Análise de Dados/ Business Intelligence
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 💻 <a href="https://sites.google.com/view/portfolio-maiuly-gomes/">Portfólio de Dados</a>
+- 👩‍💻 <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn</a>
 - 📫 maiulygomes@gmail.com
+
+- My name is Ricardo Ariel. I am looking for an opportunity to work again after making a career transition to TI. My aim is to promote Cybersecurity and Security Driven Development.
 
 ##
 
