@@ -10,6 +10,7 @@ Olá, eu sou a Maiuly.
 
 ##
 
+## GitHub Stats
 <div style="display: inline_block"><br>
   <img align="center" alt="Mai-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Mai-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
@@ -18,6 +19,8 @@ Olá, eu sou a Maiuly.
   <img align="center" alt="Mai-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Mai-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     </div>
+
+![Maiuly's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiulyvg&theme=transparent&show_icons=true&icon_color=30A3DC&hide_title=true)
 
 ##
 
