@@ -26,14 +26,8 @@ Olá, eu sou a Maiuly.
     </div>
 
 ## GitHub Stats
-<div>
-![Maiuly's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiulyvg&theme=transparent&show_icons=true&icon_color=30A3DC&hide_title=true)
- </div>
-##
-<div>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiulyvg&layout=compact&theme=transparent&show_icons=true&icon_color=30A3DC)
- </div>
-
+##
+![Maiuly's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiulyvg&theme=transparent&show_icons=true&icon_color=30A3DC&hide_title=true)
 
 ##
-
