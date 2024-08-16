@@ -21,9 +21,9 @@ Olá, eu sou a Maiuly.
 
 ##
 
-<div>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiulyvg&layout=compact&langs_count=168theme=dark"/>
-</div>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiulyvg&layout=compact&theme=transparent&show_icons=true&icon_color=30A3DC)
+<!--
+
 
 ##
 
