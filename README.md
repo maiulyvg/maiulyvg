@@ -18,6 +18,8 @@ Olá, eu sou a Maiuly.
   <img align="center" alt="Mai-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Mai-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
   <img align="center" alt="Mai-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Mai-PowerBI" height="30" width="40" src="https://www.alura.com.br/artigos/assets/power-bi/power-bi-logo.png">
+  
    </div>
    
 # Learning
@@ -27,7 +29,8 @@ Olá, eu sou a Maiuly.
   <img align="center" alt="Mai-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Mai-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 
- 
+    </div>
+    
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiulyvg&layout=compact&theme=transparent&show_icons=true&icon_color=30A3DC)
 ##
