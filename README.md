@@ -1,20 +1,18 @@
-## Seja bem-vindo ao meu perfil no GitHub! 👋
+# Seja bem-vindo ao meu perfil no GitHub! 👋
 
 Olá, eu sou a Maiuly.
 
 - 🔭 Estou buscando oportunidade para trabalhar como Analista de Dados/Analista de Business Intelligence.
 - 🌱 Meu objetivo é melhorar a tomada de decisão da empresa através da construção de soluções usando dados.
 
-# Contatos
+## Contatos
 - 💻 <a href="https://sites.google.com/view/portfolio-maiuly-gomes/">Portfólio de Dados e BI</a>
 - 👩‍💻 <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn</a>
 - 📫 maiulygomes@gmail.com
 
-##
-
-
-# Skills
-<div style="display: inline_block"><br>
+   
+## Skills
+  <div style="display: inline_block"><br>
   <img align="center" alt="Mai-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Mai-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Mai-PowerBI" height="30" width="30" src="https://comunidadeds.com/wp-content/uploads/2024/07/power-bi.webp">
@@ -22,8 +20,8 @@ Olá, eu sou a Maiuly.
    
    </div>
    
-# Learning
-<div style="display: inline_block"><br>
+## Learning
+  <div style="display: inline_block"><br>
   <img align="center" alt="Mai-javaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Mai-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Mai-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
