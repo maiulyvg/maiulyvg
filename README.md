@@ -10,6 +10,7 @@ Olá, eu sou a Maiuly.
 - 👩‍💻 <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn</a>
 - 📫 maiulygomes@gmail.com
 
+##
    
 ## Skills
   <div style="display: inline_block"><br>
@@ -18,7 +19,6 @@ Olá, eu sou a Maiuly.
   <img align="center" alt="Mai-PowerBI" height="30" width="30" src="https://comunidadeds.com/wp-content/uploads/2024/07/power-bi.webp">
   <img align="center" alt="Mai-Excel" height="30" width="30" src="https://comunidadeds.com/wp-content/uploads/2024/07/icone-excel-copiar-scaled.webp">
    
-   </div>
    
 ## Learning
   <div style="display: inline_block"><br>
@@ -33,4 +33,4 @@ Olá, eu sou a Maiuly.
 ##
 ![Maiuly's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiulyvg&theme=transparent&show_icons=true&icon_color=30A3DC&hide_title=true)
 
-##
+
