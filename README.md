@@ -18,8 +18,8 @@ Olá, eu sou a Maiuly.
   <img align="center" alt="Mai-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Mai-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg">
   <img align="center" alt="Mai-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Mai-PowerBI" height="20" width="40" src="https://comunidadeds.com/wp-content/uploads/2024/07/power-bi.webp">
- <img align="center" alt="Mai-Excel" height="20" width="40" src="https://comunidadeds.com/wp-content/uploads/2024/07/icone-excel-copiar-scaled.webp">
+  <img align="center" alt="Mai-PowerBI" height="30" width="40" src="https://comunidadeds.com/wp-content/uploads/2024/07/power-bi.webp">
+ <img align="center" alt="Mai-Excel" height="30" width="30" src="https://comunidadeds.com/wp-content/uploads/2024/07/icone-excel-copiar-scaled.webp">
    
    </div>
    
