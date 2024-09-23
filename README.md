@@ -9,7 +9,7 @@ Olá, eu sou a Maiuly.
 
 ## Portfólio de Projetos
 - 💻 <a href="https://sites.google.com/view/portfolio-maiuly-gomes/">Portfólio de Dados e BI</a>
-- 💻 <a href="https://maiulyvg.github.io/Portfolio-FrontEnd/">Portfólio de Desebvolvimento FrontEnd</a>
+- 💻 <a href="https://maiulyvg.github.io/Portfolio-FrontEnd/">Portfólio de FrontEnd</a>
 
 ## Contatos
 - <div style="display: inline_block"><br>
