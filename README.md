@@ -12,7 +12,8 @@ Olá, eu sou a Maiuly.
 - 💻 <a href="https://maiulyvg.github.io/Portfolio-FrontEnd/">Portfólio de Desebvolvimento FrontEnd</a>
 
 ## Contatos
-- 👩‍💻 <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn</a>
+- <div style="display: inline_block"><br>
+  <img align="center" alt="Mai-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn</a>        
 - 📫 maiulygomes@gmail.com
 
 ##
