@@ -2,8 +2,10 @@
 
 Olá, eu sou a Maiuly.
 
-- 🔭 Estou buscando oportunidade para trabalhar como Analista de Dados/Analista de Business Intelligence.
-- 🌱 Meu objetivo é melhorar a tomada de decisão da empresa através da construção de soluções usando dados.
+- 👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas (com previsão de conclusão em out./2026).
+- 🔭 Busco complementar a minha formação por meio de cursos livres em Análise de Dados/Business Intelligence, Metodologias Ágeis e ITIL 4 (ITSM). 
+- 🌱 Atualmente, eu estou buscando uma oportunidade de Estágio em Tecnologia, com objetivo de aprofundar meus conhecimentos nas possíveis áreas de atuação dessa carreira.
+
 
 ## Contatos
 - 💻 <a href="https://sites.google.com/view/portfolio-maiuly-gomes/">Portfólio de Dados e BI</a>
@@ -26,6 +28,8 @@ Olá, eu sou a Maiuly.
   <img align="center" alt="Mai-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Mai-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Mai-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Mai-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 
 ## GitHub Stats
