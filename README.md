@@ -13,7 +13,7 @@ Olá, eu sou a Maiuly.
 
 ## Contatos
 - <div style="display: inline_block"><br>
-  <img align="center" alt="Mai-linkedin" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"><br><a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn</a>        
+  <img align="center" alt="Mai-linkedin" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn Maiuly</a>        
 - 📫 maiulygomes@gmail.com
 
 ##
