@@ -4,7 +4,7 @@ Olá, eu sou a Maiuly.
 
 - ⛰️ Me descobri apaixonada por Tecnologia enquanto atuava com Geologia de Engenharia.
 - 👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas (com previsão de conclusão em Out/2026).
-- 📚 Busco complementar a minha formação técnica por meio de cursos livres em Análise de Dados/Business Intelligence (SQL, Python, Power BI, Excel, BigQuery, entre outros), Git, Metodologias Ágeis (Scrum e Kanban) e Gestão de Projetos (ITIL 4 - ITSM).
+- 📚 Busco complementar a minha formação técnica por meio de cursos livres em Análise de Dados/Business Intelligence (SQL, Python, Power BI, Excel, BigQuery, entre outros), Git, Metodologias Ágeis (Scrum e Kanban) e Gestão de Serviços em TI (ITIL 4 - ITSM).
 - 📐 Desde o segundo semestre de 2023, trabalho com projetos pessoais para adquirir experiência nas ferramentas que aprendi durante a graduação e os cursos livres.
   
 - 💻 **Atualmente, eu estou buscando uma oportunidade de Estágio em Tecnologia, com objetivo de aprofundar meus conhecimentos nas possíveis áreas de atuação dessa carreira.**
