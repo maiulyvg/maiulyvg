@@ -5,7 +5,7 @@ Olá, eu sou a Maiuly.
 - 👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas (com previsão de conclusão em Out/2026).
 - 💻 Busco complementar a minha formação por meio de cursos livres em Análise de Dados/Business Intelligence, Metodologias Ágeis e ITIL 4 (ITSM). 
 - 🌱 Atualmente, eu estou buscando uma oportunidade de Estágio em Tecnologia, com objetivo de aprofundar meus conhecimentos nas possíveis áreas de atuação dessa carreira.
-
+- 📐 Me descobri apaixonada por Tecnologia enquanto atuava com Geologia de Engenharia e desde o segundo semestre de 2023 trabalho com projetos pessoais com objetivo de adquirir experiência nas ferramentas que aprendi durante na graduação e nos cursos livres.
 
 ## Portfólio de Projetos
 - <a href="https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/README.md">Portfólio de Dados e BI</a>
