@@ -9,11 +9,7 @@ Olá, eu sou a Maiuly.
   
 ## Portfólio de Projetos
 - <a href="https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/README.md">Portfólio de Dados e BI</a>
-- <a href="https://github.com/maiulyvg/Portfolio-FrontEnd/blob/maiulyvg/README.md">Portfólio de FrontEnd</a>
-
-## Contatos
-<div style="display: inline_block"><br>
-<img align="center" alt="Mai-linkedin" height="15" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"> <a href="https://www.linkedin.com/in/maiulyvg/">LinkedIn Maiuly</a>        
+- <a href="https://github.com/maiulyvg/Portfolio-FrontEnd/blob/maiulyvg/README.md">Portfólio de FrontEnd</a> 
 
 ##
    
