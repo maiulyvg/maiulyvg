@@ -5,7 +5,7 @@ Olá, eu sou a Maiuly.
 - ⛰️ Me descobri apaixonada por Tecnologia enquanto atuava com Engenharia.
 - 👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 📚 Complemento a minha formação técnica por meio de cursos livres em Análise de Dados/Business Intelligence.
-- 📐 Desde o segundo semestre de 2024, trabalho com projetos pessoais para adquirir experiência nas ferramentas que aprendi durante a graduação e os cursos livres.
+- 📐 Desde 2024, trabalho com projetos pessoais para adquirir experiência nas ferramentas que aprendi durante a graduação e os cursos livres.
   
 ## Portfólio de Projetos
 - <a href="https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/README.md">Portfólio de Dados e BI</a>
