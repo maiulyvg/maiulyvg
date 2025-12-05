@@ -6,7 +6,8 @@ Olá, eu sou a Maiuly.
 - 👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 📚 Complemento a minha formação técnica por meio de cursos livres em Análise de Dados/Business Intelligence.
 - 📐 Desde 2024, trabalho com projetos pessoais para adquirir experiência nas ferramentas que aprendi durante a graduação e os cursos livres.
-  
+- :chart_with_upwards_trend: Trabalho como Analista de Dados Jr. na John Deere
+
 ## Portfólio de Projetos
 - <a href="https://github.com/maiulyvg/Portfolio-Dados-BI/blob/main/README.md">Portfólio de Dados e BI</a>
 - <a href="https://github.com/maiulyvg/Portfolio-FrontEnd/blob/maiulyvg/README.md">Portfólio de FrontEnd</a> 
